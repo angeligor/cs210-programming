@@ -5,7 +5,7 @@
 (1) Query a single item,
 (2) Lists all frequencies,
 (3) Show a histogram,
-(4) lists all frequencies and writes frequency.dat on exit.
+(4) Writes frequency.dat on exit.
 
 **What I did well**
  
@@ -28,7 +28,7 @@
 
 **Transferable skills**
 
-- C++ STL containers/iterators, file I/O, error handling, modular design, version control, and writing ducumentation/screenshots for stakeholders.
+- C++ STL containers/iterators, file I/O, error handling, modular design, version control, and writing documentation/screenshots for stakeholders.
 
 **Maintainable, readable, adaptable**
 
